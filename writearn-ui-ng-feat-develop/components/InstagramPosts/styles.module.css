@@ -1,0 +1,11 @@
+.button {
+  position: absolute;
+  top: 43%;
+  font-weight: bold;
+  left: 43%;
+  font-size: 15px;
+  padding: 4px 20px;
+}
+.card{
+  padding: 2rem;
+}

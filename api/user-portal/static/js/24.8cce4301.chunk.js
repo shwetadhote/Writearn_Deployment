@@ -1,0 +1,2 @@
+(this.webpackJsonpfrontend=this.webpackJsonpfrontend||[]).push([[24],{675:function(n,e,t){"use strict";t.r(e);var a=t(0),r=t.n(a),o=t(54),i=t.n(o),c=t(67);e.default=function(){return Object(a.useEffect)((function(){localStorage.removeItem(c.b),i.a.remove(c.b,{path:"/",domain:".writearn.in"}),i.a.remove(c.a,{path:"/",domain:".writearn.in"}),window.location.href="https://www.writearn.in/"})),r.a.createElement(r.a.Fragment,null,"Loading...")}}}]);
+//# sourceMappingURL=24.8cce4301.chunk.js.map

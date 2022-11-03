@@ -1,0 +1,43 @@
+.card_logo {
+  z-index: 3;
+  left: 47%;
+  top: 24px;
+  position: absolute;
+  width: 80px;
+  border-radius: 50%;
+  padding: 20px;
+  box-shadow: 1px 0px 12px 1px #c1b8b8;
+  box-sizing: border-box;
+  border: 1px solid white;
+}
+.card_img_logo {
+  cursor: pointer;
+  padding: 1px;
+}
+@media only screen and (max-width: 600px) {
+  .card_logo {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 912px) {
+  .card_logo {
+    width: 75px;
+    left: 45%;
+    top: 60px;
+  }
+  .card_img_logo {
+    padding: 0px;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .card_logo {
+    width: 75px;
+    left: 45%;
+    margin-top: 20px;
+  }
+  .card_img_logo {
+    padding: 0px;
+  }
+}

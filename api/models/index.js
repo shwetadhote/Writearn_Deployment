@@ -1,0 +1,18 @@
+module.exports = {
+  ContactUsModel: require("./ContactUs"),
+  ErrorLogModel: require("./ErrorLog"),
+  EarningModel: require("./Earnings"),
+  JobQueueModel: require("./JobQueue"),
+  UserModel: require("./User"),
+  PostTypeModel: require("./PostType"),
+  CategoryModel: require("./Category"),
+  NotificationModel: require("./Notification"),
+  PostModel: require("./Post"),
+  PayoutModel: require("./Payout"),
+  SettingModel: require("./Setting"),
+  PostLikeModel: require("./PostLikes"),
+  PostViewModel: require("./PostViews"),
+  PostCommentModel: require("./PostComments"),
+  UserFollowerModel: require("./UserFollower"),
+  IdentityDocumentModel: require("./IdentityDocuments"),
+};

@@ -1,0 +1,54 @@
+.divider {
+  text-align: -webkit-center;
+}
+.user2Img {
+  justify-content: center;
+}
+.user2_img {
+  height: 7rem;
+  width: 36%;
+  border-radius: 50%;
+}
+.follow_btn {
+  padding: 5px 35px;
+  font-size: 13px;
+  font-weight: 600;
+  margin-top: 10px;
+}
+.profile_btn {
+  margin-top: 10px;
+  padding: 5px 20px;
+  font-size: 13px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+.btn {
+  background: transparent;
+  border-radius: 50%;
+  color: #dad8d8;
+  text-align: center;
+}
+.btn:hover,
+.btn:focus {
+  background: transparent;
+}
+
+.carouselControlPrev {
+  left: 37%;
+}
+.carouselControlNext {
+  right: 37%;
+}
+.carouselControlPrev,
+.carouselControlNext {
+  background-color: rgb(75, 76, 77);
+  width: 12%;
+  height: 7%;
+  cursor: pointer;
+  top: auto;
+  border-radius: 50%;
+  margin: 20px 0px;
+  padding: 16px;
+  cursor: pointer;
+  box-shadow: inset;
+}

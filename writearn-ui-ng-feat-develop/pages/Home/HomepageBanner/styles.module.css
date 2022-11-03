@@ -1,0 +1,16 @@
+.Img_overlay {
+  top: 25%;
+  font-style: italic;
+}
+.header_social_icon {
+  color: white;
+}
+.Card_img {
+  opacity: 1;
+  background: rgba(0, 0, 0, 0.5);
+}
+.coins {
+  margin-top: 15px;
+  width: 2rem;
+  position: absolute;
+}

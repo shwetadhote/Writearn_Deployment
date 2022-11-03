@@ -1,0 +1,22 @@
+.divider {
+    text-align: -webkit-center;
+  }
+  .form_input {
+    padding: 8px 10px;
+    box-sizing: border-box;
+    border: 1px solid rgb(211, 208, 208);
+    width: 100%;
+    outline: none;
+    font-size: 15px;
+  }
+  .btn{
+    padding: 7px 85px;
+    font-size: 14px;
+  }
+  .privacy_policy{
+    cursor: pointer;
+    text-decoration: none;
+  }
+  .privacy_policy:hover{
+    text-decoration: none;
+  }

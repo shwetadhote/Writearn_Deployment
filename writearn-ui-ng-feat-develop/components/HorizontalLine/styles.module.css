@@ -1,0 +1,7 @@
+.hr_line {
+  content: "";
+  display: inherit;
+  width: 92%;
+  margin: 1px auto;
+  border-bottom: 8px solid #ffffff;
+}

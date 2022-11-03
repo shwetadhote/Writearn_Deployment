@@ -1,0 +1,35 @@
+.header_social_icon {
+  color: rgb(39, 38, 38);
+  margin: 2px;
+}
+.contactusHead {
+  background: rgb(227, 241, 247);
+  align-items: center;
+  border: 0;
+  z-index: -1;
+  padding: 32px 0px 15px 0px;
+  font-weight: 700;
+}
+.Card_input_field {
+  padding-bottom: 15%;
+  font-size: 14px;
+  border: 1px solid rgb(206, 201, 201);
+}
+.Card_input_field::placeholder {
+  color: rgb(185, 180, 180);
+}
+.icon {
+  padding: 10px;
+  background: rgb(213, 220, 226);
+}
+.form_input {
+  padding: 8px 0px 8px 40px;
+  box-sizing: border-box;
+  border: 1px solid rgb(206, 201, 201);
+  width: 100%;
+  outline: none;
+  font-size: 14px;
+}
+.form_input::placeholder {
+  color: rgb(187, 182, 182);
+}

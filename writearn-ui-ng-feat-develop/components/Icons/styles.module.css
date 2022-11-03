@@ -1,0 +1,41 @@
+.share_btn {
+  background: transparent;
+  outline: none;
+  border: none;
+  color: grey;
+  box-shadow: none;
+}
+.icons {
+  cursor: pointer;
+}
+.vr_line {
+  border-left: 1px solid rgb(206, 204, 204);
+  height: 32px;
+  top: 10px;
+}
+.share_btn:hover,
+.share_btn:focus {
+  background: transparent;
+  color: grey;
+  box-shadow: none;
+  --bs-btn-focus-box-shadow: 0;
+}
+.like_btn {
+  background: white;
+  border: none;
+  color: rgb(126, 125, 125);
+}
+.like_btn:focus,
+.like_btn:hover {
+  background: none;
+  color: grey;
+  border: none;
+  --bs-btn-focus-box-shadow: 0;
+}
+.like_btn:hover {
+  color: rgb(8, 142, 231);
+}
+.active{
+  color: blue;
+  background: transparent;
+}

@@ -1,0 +1,64 @@
+.Card {
+  background-color: #171924;
+}
+.Card_text {
+  color: white;
+  text-align: initial;
+}
+.footer_social_icon{
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+  margin: 3px;
+}
+
+.Card_link {
+  text-decoration: none;
+  color: white;
+  margin-left: -25px;
+  cursor: pointer;
+}
+.Card_link:hover{
+  text-decoration: none;
+}
+.Card_email {
+  text-decoration: none;
+  font-weight: 600;
+}
+.Card_input_field {
+  padding-right: 48px;
+  padding-bottom: 10px;
+  background-color: transparent;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid rgb(59, 59, 59);
+}
+.subscribe_btn {
+  margin-left: -49px;
+  padding: 6px 20px;
+  font-size: 13px;
+  font-weight: 600;
+}
+.phone_no{
+  text-decoration: none;
+  color: white;
+}
+.Card_footer {
+  border-block-color: rgb(45, 57, 65);
+}
+.footer_text {
+  color: rgb(138, 135, 132);
+}
+.newsletter_input{
+  padding: 4px 0px 4px 5px;
+}
+.newsletter_input::placeholder{
+  font-size: 13px;
+  font-weight: 600;
+}
+@media only screen and (max-width: 290px) {
+  .subscribe_btn {
+    margin-left:-100px;
+  }
+}
+

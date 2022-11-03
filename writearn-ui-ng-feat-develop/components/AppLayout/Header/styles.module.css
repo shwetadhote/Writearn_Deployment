@@ -1,0 +1,63 @@
+.header_social_icon {
+  color: rgb(10, 10, 29);
+  font-size: 13px;
+  padding: 3px;
+}
+.btn_section {
+  display: flex;
+}
+.section{
+  display: flex;
+  margin-top: 5px;
+}
+.btn {
+  padding: 6px 33px;
+  margin: 0;
+  font-size: 13px;
+  font-weight: 600;
+}
+.cardHeader {
+  box-shadow: 0px 0px 14px 1px #b8b3b3;
+  box-sizing: border-box;
+  border: 0px solid;
+}
+.active {
+  font-weight: 600;
+  margin: 0px 5px;
+  color: black;
+  text-decoration: none;
+  border-bottom: 3px solid blue;
+  cursor: pointer;
+}
+.active:hover {
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+}
+.inactive {
+  color: rgb(66, 66, 66);
+  cursor: pointer;
+  text-decoration: none;
+  margin: 0px 5px;
+}
+.inactive:hover {
+  color: rgb(128, 127, 127);
+  cursor: pointer;
+  text-decoration: none;
+}
+@media only screen and (max-width: 380px) {
+  .section {
+    display: block;
+  }
+  .active {
+    background: transparent;
+    border: none;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .active {
+    background: transparent;
+    border: none;
+  }
+}

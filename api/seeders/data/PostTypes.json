@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Blog Post",
+    "slug": "blog-posts",
+    "subCategories": [
+      {
+        "name": "Technology Blog"
+      },
+      {
+        "name": "Fashion blog"
+      },
+      {
+        "name": "Food blog"
+      },
+      {
+        "name": "Travel blog"
+      },
+      {
+        "name": "Music blog"
+      },
+      {
+        "name": "Lifestyle blog"
+      },
+      {
+        "name": "Fitness blog"
+      },
+      {
+        "name": "DIY blog"
+      },
+      {
+        "name": "Sports blog"
+      },
+      {
+        "name": "Finance blog"
+      },
+      {
+        "name": "Political blog"
+      },
+      {
+        "name": "Parenting blog"
+      },
+      {
+        "name": "Business blog"
+      },
+      {
+        "name": "Personal blog"
+      },
+      {
+        "name": "Movie blog"
+      },
+      {
+        "name": "Car blog"
+      },
+      {
+        "name": "Pet blog"
+      },
+      {
+        "name": "Gaming blog"
+      }
+    ]
+  },
+  {
+    "name": "News",
+    "slug": "news",
+    "subCategories": [
+      {
+        "name": "Entertainment industry news"
+      },
+      {
+        "name": "Sports news"
+      },
+      {
+        "name": "Career news"
+      },
+      {
+        "name": "Political news"
+      },
+      {
+        "name": "Business news"
+      },
+      {
+        "name": "Crime news"
+      },
+      {
+        "name": "Health news"
+      },
+      {
+        "name": "Space news"
+      },
+      {
+        "name": "Global news"
+      },
+      {
+        "name": "National News"
+      },
+      {
+        "name": "Breaking News"
+      },
+      {
+        "name": "Colleges and Universities"
+      },
+      {
+        "name": "Current Events"
+      },
+      {
+        "name": "Environmental News"
+      },
+      {
+        "name": "Government News"
+      },
+      {
+        "name": "Technology News"
+      },
+      {
+        "name": "Weather News"
+      },
+      {
+        "name": "Armed force News"
+      }
+    ]
+  },
+  {
+    "name": "Story",
+    "slug": "story",
+    "subCategories": [
+      {
+        "name": "Short Story"
+      },
+      {
+        "name": "Long Story"
+      },
+      {
+        "name": "Comedy"
+      },
+      {
+        "name": "Tragedy"
+      },
+      {
+        "name": "Cinderella"
+      },
+      {
+        "name": "Horror"
+      },
+      {
+        "name": "Love Story"
+      },
+      {
+        "name": "Crime Story"
+      },
+      {
+        "name": "Fictional Story"
+      }
+    ]
+  },
+  {
+    "name": "Poem",
+    "slug": "poem",
+    "subCategories": [
+      {
+        "name": "Rhyme"
+      },
+      {
+        "name": "Stanza"
+      },
+      {
+        "name": "Couplet"
+      },
+      {
+        "name": "Nationalist"
+      }
+    ]
+  },
+  {
+    "name": "Shayri",
+    "slug": "shayri",
+    "subCategories": [
+      {
+        "name": "For lovers"
+      },
+      {
+        "name": "Comedy"
+      },
+      {
+        "name": "For Nation"
+      },
+      {
+        "name": "For Singles"
+      },
+      {
+        "name": "For Coupals"
+      },
+      {
+        "name": "For Girlfriend"
+      },
+      {
+        "name": "For Boyfriend"
+      },
+      {
+        "name": "For EX"
+      },
+      {
+        "name": "For Wife"
+      },
+      {
+        "name": "For Husband"
+      }
+    ]
+  }
+]

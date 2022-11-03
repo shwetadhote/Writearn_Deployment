@@ -1,0 +1,45 @@
+{
+  "name": "frontend-n",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "@types/react-icons": "^3.0.0",
+    "@types/react-redux": "^7.1.24",
+    "@types/react-router-dom": "^5.3.3",
+    "@types/reactstrap": "^8.7.2",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.0",
+    "dateformat": "^5.0.3",
+    "formik": "^2.2.9",
+    "next": "^12.2.4",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.34.0",
+    "react-icons": "^4.4.0",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "^6.3.0",
+    "react-toastify": "^9.0.8",
+    "reactstrap": "^9.1.2",
+    "rsuite": "^5.17.0"
+  },
+  "devDependencies": {
+    "@types/dateformat": "^5.0.0",
+    "@types/node": "18.0.6",
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@types/yup": "^0.32.0",
+    "eslint": "^8.25.0",
+    "eslint-config-next": "12.2.3",
+    "eslint-config-prettier": "^8.5.0",
+    "typescript": "4.7.4",
+    "yup": "^0.32.11"
+  }
+}

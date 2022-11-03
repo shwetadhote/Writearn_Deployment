@@ -1,0 +1,9 @@
+.card_profile_img {
+    border-radius: 50%;
+  }
+  .firstName{
+    cursor: pointer;
+  }
+  .dot{
+    color: rgb(17, 0, 255);
+  }
